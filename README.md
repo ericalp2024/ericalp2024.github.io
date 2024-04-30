@@ -2,7 +2,7 @@
 ## 😂😂😂
 
 
-
+**checklist**
 
 -[x] Make github login
 
@@ -10,9 +10,11 @@
 
 -[x] First name 1st level header
 
--[] Add a header to my page
+-[] Link to HelloWorld
 
--[] Add an image banner
+-[] Add an image 
+
+-[] add to HelloWorld
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
