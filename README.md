@@ -4,7 +4,7 @@
 
 **checklist**
 
--[x] Make github login
+- [x] Make github login
 
 -[x] New repository
 
