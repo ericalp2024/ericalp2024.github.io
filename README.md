@@ -10,9 +10,9 @@
 
 - [x] First name 1st level heade
 
-- [ ] Link to HelloWorld
+- [x] Link to HelloWorld
 
-- [ ] Add an image 
+- [x] Add an image 
 
 - [ ] add to HelloWorld
 
