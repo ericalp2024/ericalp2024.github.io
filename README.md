@@ -6,15 +6,15 @@
 
 - [x] Make github login
 
--[x] New repository
+- [x] New repository
 
--[x] First name 1st level heade
+- [x] First name 1st level heade
 
--[] Link to HelloWorld
+- [ ] Link to HelloWorld
 
--[] Add an image 
+- [ ] Add an image 
 
--[] add to HelloWorld
+- [ ] add to HelloWorld
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
