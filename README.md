@@ -8,7 +8,7 @@
 
 -[x] New repository
 
--[x] First name 1st level header
+-[x] First name 1st level heade
 
 -[] Link to HelloWorld
 
