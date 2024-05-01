@@ -14,7 +14,7 @@
 
 - [x] Add an image 
 
-- [ ] add to HelloWorld
+- [x] add to HelloWorld
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
