@@ -20,9 +20,9 @@
 
 - [x] add to HelloWorld
 
-- [ ] add an image/s to your hello world page
+- [x] add an image/s to your hello world page
 
-- [ ] add a hyperlink back to main webpage on your hello world webpage
+- [x] add a hyperlink back to main webpage on your hello world webpage
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
