@@ -16,20 +16,28 @@ text-align: center;
   border: none;
   border-radius: 7px;
    margin: 12px 5px;
+
 }
+
+
+ul {
+  color: Black;
+  text-align: center;
+  font-family: Times New Roman, Times, serif;
+  font-size: 160%;
+  width: 480px;
+  margin-right: 140px;
+  border: 3px FloralWhite;
+  border-radius: 9px;
+  padding: 30px;
+  background-color: MistyRose;
+list-style-position: inside;
 
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(143,188,143);
 }
  
- 
-    
-  }
-
-p {
-  font-size: 20px;
-}
 
 
 
@@ -51,11 +59,16 @@ h3 {
   
 }
 
-p {
+ul {
   color: Black;
   text-align: center;
-  font-family: "Georgia", serif;
-  fon-size: 10px;
+  font-family: Georgia, serif;
+  font-size: 140%;
+  width: 480px;
+  margin-left: 20px;
+  margin-right: 120
+  padding: 30px;
+  background-color: MistyRose;
 }
 
 
