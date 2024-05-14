@@ -1,1 +1,75 @@
 
+
+h1 {
+  color: Black;
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+  background-image: url("https://media.istockphoto.com/id/1349381997/photo/female-hands-with-bowl-of-pumpkin-soup.jpg?s=612x612&w=0&k=20&c=bX5Xq1LmySatCItpQEG_ntpl_VqH0R_F9HEKGjRyBnE=");
+  font-size: 50px;
+}
+
+button {
+  color: AntiqueWhite;
+  background-color: DarkSeaGreen;
+text-align: center;
+  font-size: 40px;
+  border: none;
+  border-radius: 7px;
+   margin: 12px 5px;
+}
+
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(143,188,143);
+}
+ 
+ 
+    
+  }
+
+p {
+  font-size: 20px;
+}
+
+
+
+h2 {
+  color: Black;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 80px;
+}
+
+
+
+
+h3 {
+  color: Black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  font-size: 30px;
+  
+}
+
+p {
+  color: Black;
+  text-align: center;
+  font-family: "Georgia", serif;
+  fon-size: 10px;
+}
+
+
+  
+ h4 {
+  color: Black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  font-size: 30px;" 
+}
+
+p {
+  color: Black;
+  text-align: center;
+  font-family: "Georgia", serif;
+  fon-size: 10px;
+}
