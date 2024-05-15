@@ -21,6 +21,8 @@
 
 [Mixed Vegetable Soup](https://ericalp2024.github.io/MixedVegetableSoup/)
 
+[French Onion Soup](https://ericalp2024.github.io/FrenchOnionSoup/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
