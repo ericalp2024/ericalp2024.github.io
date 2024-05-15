@@ -24,16 +24,7 @@ img:hover {
 }
  
 
-ul {
-  color: Black;
-  text-align: center;
-  font-family: Georgia serif;
-  font-size: 160%;
-  width: 480px;
-  margin-left: 300px;
-  border: 3px FloralWhite;
-  border-radius: 9px;
-}
+
 
 
 h2 {
@@ -79,4 +70,15 @@ p {
   margin-left: 100px
   font-family: "Georgia", serif;
   font-size: 10px;
+}
+
+ul {
+  color: Black;
+  text-align: center;
+  font-family: Georgia serif;
+  font-size: 160%;
+  width: 480px;
+  margin-left: 300px;
+  border: 3px FloralWhite;
+  border-radius: 9px;
 }
