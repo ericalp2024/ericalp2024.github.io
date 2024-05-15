@@ -9,6 +9,10 @@
 
 [Butternut Squash Soup](https://ericalp2024.github.io/Butternut-Squash-Soup/)
 
+[Cauliflower Soup](https://ericalp2024.github.io/CauliflowerSoup/)
+
+[Minestrone Soup](https://ericalp2024.github.io/MinestroneSoup/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
