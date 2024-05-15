@@ -15,6 +15,8 @@
 
 [Pea And Ham Soup](https://ericalp2024.github.io/PeandHamSoup/)
 
+[Mushroom Soup](https://ericalp2024.github.io/MushroomSoup/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
