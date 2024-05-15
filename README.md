@@ -19,6 +19,8 @@
 
 [Creamy Tomato Soup with Cheese Toasties](https://ericalp2024.github.io/TomatoSoupwithCheeseToasties/)
 
+[Mixed Vegetable Soup](https://ericalp2024.github.io/MixedVegetableSoup/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
