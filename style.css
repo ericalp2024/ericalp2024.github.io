@@ -19,20 +19,6 @@ text-align: center;
 
 }
 
-
-ul {
-  color: Black;
-  text-align: center;
-  font-family: Georgia, serif;
-  font-size: 140%;
-  width: 480px;
-  margin-right: 140px;
-  margin-left: 130px;
-  
-  
-
-
-
 img:hover {
   box-shadow: 0 0 2px 1px rgba(143,188,143);
 }
@@ -58,17 +44,11 @@ h3 {
   
 }
 
-ul {
+p {
   color: Black;
   text-align: center;
   font-family: Georgia, serif;
-  font-size: 140%;
-  width: 480px;
-  margin-left: 20px;
-  margin-right: 120
-  padding: 30px;
-  background-color: MistyRose;
-}
+  font-size: 20px;
 
 
   
