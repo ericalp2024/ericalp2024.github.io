@@ -13,6 +13,8 @@
 
 [Minestrone Soup](https://ericalp2024.github.io/MinestroneSoup/)
 
+[Pea And Ham Soup](https://ericalp2024.github.io/PeandHamSoup/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
