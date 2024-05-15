@@ -17,6 +17,8 @@
 
 [Mushroom Soup](https://ericalp2024.github.io/MushroomSoup/)
 
+[Creamy Tomato Soup with Cheese Toasties](https://ericalp2024.github.io/TomatoSoupwithCheeseToasties/)
+
 
 [HelloWorld](https://ericalp2024.github.io/HelloWorld/)
 
