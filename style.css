@@ -23,15 +23,14 @@ text-align: center;
 ul {
   color: Black;
   text-align: center;
-  font-family: Times New Roman, Times, serif;
-  font-size: 160%;
+  font-family: Georgia, serif;
+  font-size: 140%;
   width: 480px;
   margin-right: 140px;
-  border: 3px FloralWhite;
-  border-radius: 9px;
-  padding: 30px;
-  background-color: MistyRose;
-list-style-position: inside;
+  margin-left: 130px;
+  
+  
+
 
 
 img:hover {
