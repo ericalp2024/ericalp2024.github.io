@@ -26,4 +26,6 @@ Use the links below to unlock winter warming recipes
 
 [French Onion Soup](https://ericalp2024.github.io/FrenchOnionSoup/)
 
+[Rubric](https://ericalp2024.github.io/Rubric/)
+
 
