@@ -74,7 +74,9 @@ p {
 
 p {
   color: Black;
-  text-align: center;
+  float: left;
+  margin-left: 600;
+  margin-right: 400;
   font-family: "Georgia", serif;
   font-size: 20px;
 }
